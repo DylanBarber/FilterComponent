@@ -71,7 +71,6 @@ export default class FilterComponent extends Component {
     }
 
     render() {
-
         const { currentWords } = this.state;
 
         const wordList = currentWords.map(word => {
