@@ -1,0 +1,8 @@
+{
+  "short_name": "Data Fed Component",
+  "name": "Data Fed Component - MRM",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
